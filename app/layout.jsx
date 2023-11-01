@@ -3,7 +3,7 @@ import '@styles/globes.css';
 import Nav from '@components/Nav';
 import Provider from "@components/Provider";
 export const metadata ={
-    title: "promptopia",
+    title: "Prompt-Share",
     description : 'Discover & Share AI Prompts'
 }
 const Rootlayout = ({children}) => {
